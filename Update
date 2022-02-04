@@ -15,7 +15,7 @@
 
   "MainTextButton": "Update",
 
-  "Cancelable": "true",
+  "Cancelable": "false",
 
   "CancelButtonText": "Cancel",
 
