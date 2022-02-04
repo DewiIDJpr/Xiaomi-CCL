@@ -15,11 +15,12 @@
 
   "MainTextButton": "Update",
 
-  "Cancelable": "true",
+  "Cancelable": "false",
 
   "CancelButtonText": "Cancel",
 
-  "DownloadLink": "www.google.com",
+  "DownloadLink": "https://google.com
+",
 
   "Version": "18.2.1-Beta"
 
