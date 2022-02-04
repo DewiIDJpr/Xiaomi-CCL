@@ -1,0 +1,22 @@
+{
+
+
+  "Visibility": "VISIBLE",
+
+  "Title": "Update Kali ini Penambahan Fitur",
+
+  "Description": "•Add New Scan Path
+
+•Perbaikan Ui/Ux lebih Smooth",
+
+  "MainTextButton": "Update",
+
+  "Cancelable": "true",
+
+  "CancelButtonText": "Cancel",
+
+  "DownloadLink": "www.google.com",
+
+  "Version": "18.2.1-Beta"
+
+}
